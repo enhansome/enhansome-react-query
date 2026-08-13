@@ -1,0 +1,234 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official Library Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:30:24Z",
+            "owner": "TanStack",
+            "repo": "query",
+            "stars": 50119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yet Another Clash Dasbhoard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-08T19:21:29Z",
+            "owner": "haishanh",
+            "repo": "yacd",
+            "stars": 4836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rainbow: Ethereum Wallet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:52:16Z",
+            "owner": "rainbow-me",
+            "repo": "rainbow",
+            "stars": 4380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookshelf App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-10T21:51:07Z",
+            "owner": "kentcdodds",
+            "repo": "bookshelf",
+            "stars": 2680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker Tab Extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:39:27Z",
+            "owner": "huchenme",
+            "repo": "hacker-tab-extension",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blog Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T02:59:37Z",
+            "owner": "tannerlinsley",
+            "repo": "react-query-blog-refactor-example",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthetix Exchange",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-06-28T09:39:52Z",
+            "owner": "Synthetixio",
+            "repo": "synthetix-exchange",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hour Power",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-07T07:22:29Z",
+            "owner": "brentvatne",
+            "repo": "hour-power",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React State Demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-14T09:47:15Z",
+            "owner": "coryhouse",
+            "repo": "react-state-demo",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hedgehog Lab: A Scientific Computation Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-02T04:34:31Z",
+            "owner": "lidangzzz",
+            "repo": "hedgehog-lab",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create React App Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-05T05:03:30Z",
+            "owner": "hyanmandian",
+            "repo": "cra-template-hyan",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COVID Self Reporting Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-02T06:46:33Z",
+            "owner": "Covid-Self-report-Tool",
+            "repo": "cov-self-report-frontend",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-query-auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-08T13:08:11Z",
+            "owner": "alan2207",
+            "repo": "react-query-auth",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-query-native-devtools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-09T18:00:42Z",
+            "owner": "bgaleotti",
+            "repo": "react-query-native-devtools",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-query-navigation-native",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-10-12T12:01:11Z",
+            "owner": "cherniavskii",
+            "repo": "react-query-navigation-native",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Packages"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:52:11.443Z",
+    "original_repository": "Buuntu/awesome-react-query",
+    "original_repository_sha": "0a9b9cfec2916a68edde69db5e54c2bf2c01b2ee",
+    "enhanced_repository": "enhansome/enhansome-react-query",
+    "enhanced_repository_description": null,
+    "title": "Awesome React Query with stars"
+  }
+}
