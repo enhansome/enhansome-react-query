@@ -1,16 +1,16 @@
 # Awesome React Query with stars
 
-* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,119 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12
+* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,130 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-13
   * [Dev Tools](https://github.com/tannerlinsley/react-query-devtools) ⚠️ Archived
   * [Documentation](https://react-query.tanstack.com/)
-  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,119 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12
+  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,130 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-13
   * [React Query Essentials Source Code](https://github.com/tannerlinsley/react-query-essentials) ⭐ 446 | 🐛 144 | 🌐 JavaScript | 📅 2023-01-06
 
 ## Applications
 
-* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,119 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12
-* [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,836 | 🐛 100 | 🌐 TypeScript | 📅 2024-02-08
-* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,380 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-13
+* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,130 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-13
+* [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,835 | 🐛 100 | 🌐 TypeScript | 📅 2024-02-08
+* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,380 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-14
 * [Bookshelf App](https://github.com/kentcdodds/bookshelf) ⭐ 2,680 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
 * [Hacker Tab Extension](https://github.com/huchenme/hacker-tab-extension) ⭐ 362 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-06
 * [Blog Example](https://github.com/tannerlinsley/react-query-blog-refactor-example) ⭐ 226 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06
@@ -43,4 +43,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
