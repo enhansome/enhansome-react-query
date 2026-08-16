@@ -1,23 +1,23 @@
 # Awesome React Query with stars
 
-* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,139 | 🐛 236 | 🌐 TypeScript | 📅 2026-08-13
+* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,146 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-16
   * [Dev Tools](https://github.com/tannerlinsley/react-query-devtools) ⚠️ Archived
   * [Documentation](https://react-query.tanstack.com/)
-  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,139 | 🐛 236 | 🌐 TypeScript | 📅 2026-08-13
+  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,146 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-16
   * [React Query Essentials Source Code](https://github.com/tannerlinsley/react-query-essentials) ⭐ 446 | 🐛 144 | 🌐 JavaScript | 📅 2023-01-06
 
 ## Applications
 
-* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,139 | 🐛 236 | 🌐 TypeScript | 📅 2026-08-13
+* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,146 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-16
 * [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,835 | 🐛 100 | 🌐 TypeScript | 📅 2024-02-08
-* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,380 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-14
+* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,380 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-16
 * [Bookshelf App](https://github.com/kentcdodds/bookshelf) ⭐ 2,681 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
 * [Hacker Tab Extension](https://github.com/huchenme/hacker-tab-extension) ⭐ 362 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-06
 * [Blog Example](https://github.com/tannerlinsley/react-query-blog-refactor-example) ⭐ 226 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06
 * [Synthetix Exchange](https://github.com/Synthetixio/synthetix-exchange) ⚠️ Archived
 * [Hour Power](https://github.com/brentvatne/hour-power) ⭐ 108 | 🐛 22 | 🌐 TypeScript | 📅 2022-12-07
 * [React State Demo](https://github.com/coryhouse/react-state-demo) ⭐ 74 | 🐛 15 | 🌐 JavaScript | 📅 2022-11-14
-* [Hedgehog Lab: A Scientific Computation Tool](https://github.com/lidangzzz/hedgehog-lab) ⭐ 32 | 🐛 0 | 📅 2021-11-02
+* [Hedgehog Lab: A Scientific Computation Tool](https://github.com/lidangzzz/hedgehog-lab) ⭐ 31 | 🐛 0 | 📅 2021-11-02
 * [Create React App Example](https://github.com/hyanmandian/cra-template-hyan) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2020-06-05
 * [COVID Self Reporting Tool](https://github.com/Covid-Self-report-Tool/cov-self-report-frontend) ⭐ 10 | 🐛 52 | 🌐 TypeScript | 📅 2021-08-02
 
@@ -43,4 +43,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
