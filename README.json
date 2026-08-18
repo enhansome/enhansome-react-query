@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:56:43Z",
+            "last_commit": "2026-08-18T08:02:05Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50146
+            "stars": 50149
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T06:38:53Z",
+            "last_commit": "2026-08-17T21:07:58Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
             "stars": 4379
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:08:35.170Z",
+    "last_updated": "2026-08-18T08:04:12.214Z",
     "original_repository": "Buuntu/awesome-react-query",
     "original_repository_sha": "0a9b9cfec2916a68edde69db5e54c2bf2c01b2ee",
     "enhanced_repository": "enhansome/enhansome-react-query",
