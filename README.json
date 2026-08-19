@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:02:05Z",
+            "last_commit": "2026-08-19T01:22:11Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50149
+            "stars": 50162
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153903005,
             "language": "TypeScript",
             "last_commit": "2024-02-08T19:21:29Z",
             "owner": "haishanh",
             "repo": "yacd",
-            "stars": 4835
+            "stars": 4837
           }
         },
         {
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176777353,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:07:58Z",
+            "last_commit": "2026-08-18T23:28:22Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
             "stars": 4379
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185924208,
             "language": "JavaScript",
             "last_commit": "2026-03-10T21:51:07Z",
             "owner": "kentcdodds",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158044303,
             "language": "JavaScript",
             "last_commit": "2023-01-06T01:39:27Z",
             "owner": "huchenme",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254199519,
             "language": "JavaScript",
             "last_commit": "2023-01-06T02:59:37Z",
             "owner": "tannerlinsley",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 158159980,
             "language": "TypeScript",
             "last_commit": "2021-06-28T09:39:52Z",
             "owner": "Synthetixio",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267672902,
             "language": "TypeScript",
             "last_commit": "2022-12-07T07:22:29Z",
             "owner": "brentvatne",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264467872,
             "language": "JavaScript",
             "last_commit": "2022-11-14T09:47:15Z",
             "owner": "coryhouse",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423952537,
             "language": null,
             "last_commit": "2021-11-02T04:34:31Z",
             "owner": "lidangzzz",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126437400,
             "language": "TypeScript",
             "last_commit": "2020-06-05T05:03:30Z",
             "owner": "hyanmandian",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260075783,
             "language": "TypeScript",
             "last_commit": "2021-08-02T06:46:33Z",
             "owner": "Covid-Self-report-Tool",
@@ -175,7 +187,7 @@
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338656763,
             "language": "TypeScript",
             "last_commit": "2024-12-08T13:08:11Z",
             "owner": "alan2207",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256885786,
             "language": "TypeScript",
             "last_commit": "2024-01-09T18:00:42Z",
             "owner": "bgaleotti",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 251088553,
             "language": "JavaScript",
             "last_commit": "2022-10-12T12:01:11Z",
             "owner": "cherniavskii",
@@ -224,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:04:12.214Z",
+    "last_updated": "2026-08-19T08:04:32.566Z",
     "original_repository": "Buuntu/awesome-react-query",
     "original_repository_sha": "0a9b9cfec2916a68edde69db5e54c2bf2c01b2ee",
     "enhanced_repository": "enhansome/enhansome-react-query",
