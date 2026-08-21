@@ -12,10 +12,10 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T07:13:06Z",
+            "last_commit": "2026-08-21T08:01:26Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50169
+            "stars": 50178
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 176777353,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T06:15:22Z",
+            "last_commit": "2026-08-21T01:32:24Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
-            "stars": 4379
+            "stars": 4380
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2021-06-28T09:39:52Z",
             "owner": "Synthetixio",
             "repo": "synthetix-exchange",
-            "stars": 117
+            "stars": 116
           }
         },
         {
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:06:24.769Z",
+    "last_updated": "2026-08-21T08:06:54.813Z",
     "original_repository": "Buuntu/awesome-react-query",
     "original_repository_id": 280287785,
     "original_repository_sha": "0a9b9cfec2916a68edde69db5e54c2bf2c01b2ee",
