@@ -12,10 +12,10 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T08:06:28Z",
+            "last_commit": "2026-08-26T07:58:37Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50201
+            "stars": 50209
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 176777353,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T22:48:02Z",
+            "last_commit": "2026-08-26T06:42:41Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
             "stars": 4382
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-10T21:51:07Z",
             "owner": "kentcdodds",
             "repo": "bookshelf",
-            "stars": 2681
+            "stars": 2682
           }
         },
         {
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:09:00.883Z",
+    "last_updated": "2026-08-26T08:09:10.158Z",
     "original_repository": "Buuntu/awesome-react-query",
     "original_repository_id": 280287785,
     "original_repository_sha": "0a9b9cfec2916a68edde69db5e54c2bf2c01b2ee",
