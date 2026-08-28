@@ -12,11 +12,12 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:07:22Z",
+            "last_commit": "2026-08-28T06:58:32Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50215
-          }
+            "stars": 50223
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-02-08T19:21:29Z",
             "owner": "haishanh",
             "repo": "yacd",
-            "stars": 4838
-          }
+            "stars": 4835
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 176777353,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:29:54Z",
+            "last_commit": "2026-08-28T19:14:06Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
             "stars": 4384
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "kentcdodds",
             "repo": "bookshelf",
             "stars": 2682
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2023-01-06T01:39:27Z",
             "owner": "huchenme",
             "repo": "hacker-tab-extension",
-            "stars": 362
-          }
+            "stars": 361
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "tannerlinsley",
             "repo": "react-query-blog-refactor-example",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Synthetixio",
             "repo": "synthetix-exchange",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "brentvatne",
             "repo": "hour-power",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "coryhouse",
             "repo": "react-state-demo",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "lidangzzz",
             "repo": "hedgehog-lab",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "hyanmandian",
             "repo": "cra-template-hyan",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "Covid-Self-report-Tool",
             "repo": "cov-self-report-frontend",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         }
       ],
       "title": "Applications"
@@ -202,7 +214,8 @@
             "owner": "alan2207",
             "repo": "react-query-auth",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "bgaleotti",
             "repo": "react-query-native-devtools",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         },
         {
           "node_type": "item",
@@ -232,14 +246,15 @@
             "owner": "cherniavskii",
             "repo": "react-query-navigation-native",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T19:33:11.130Z"
         }
       ],
       "title": "Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:22:48.363Z",
+    "last_updated": "2026-08-28T19:33:11.130Z",
     "original_repository_info": {
       "archived": false,
       "id": 280287785,
