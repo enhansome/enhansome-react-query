@@ -10,12 +10,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+            "homepage": "https://tanstack.com/query",
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:58:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:09:26Z",
+            "open_issues": 134,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50223
+            "stars": 50224,
+            "topics": [
+              "async",
+              "cache",
+              "data",
+              "fetch",
+              "graphql",
+              "hooks",
+              "query",
+              "react",
+              "rest",
+              "solid",
+              "stale",
+              "stale-while-revalidate",
+              "svelte",
+              "typescript",
+              "update",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -26,12 +48,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Clash Dashboard",
+            "homepage": "http://yacd.haishan.me",
             "id": 153903005,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-08T19:21:29Z",
+            "open_issues": 99,
             "owner": "haishanh",
             "repo": "yacd",
-            "stars": 4835
+            "stars": 4835,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -42,12 +69,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌈‒ the Ethereum wallet that lives in your pocket ",
+            "homepage": "https://rainbow.me",
             "id": 176777353,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:14:06Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T03:32:25Z",
+            "open_issues": 32,
             "owner": "rainbow-me",
             "repo": "rainbow",
-            "stars": 4384
+            "stars": 4384,
+            "topics": [
+              "defi",
+              "ethereum",
+              "ethereum-wallet",
+              "rainbow",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -58,12 +96,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build a ReactJS App workshop",
+            "homepage": "https://www.epicreact.dev/modules/build-an-epic-react-app-v1/build-an-epic-react-app-welcome",
             "id": 185924208,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-10T21:51:07Z",
+            "open_issues": 0,
             "owner": "kentcdodds",
             "repo": "bookshelf",
-            "stars": 2682
+            "stars": 2682,
+            "topics": [
+              "epicreact-dev",
+              "kcd-edu",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -74,12 +121,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser extension to view GitHub trending projects on new tab :octocat: 📈",
+            "homepage": "https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm",
             "id": 158044303,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T01:39:27Z",
+            "open_issues": 26,
             "owner": "huchenme",
             "repo": "hacker-tab-extension",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "chrome-extension",
+              "chrome-extensions",
+              "github",
+              "github-api",
+              "google",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -90,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A commit-by-commit story of building your own global async server-state management, then migrating it to React Query",
+            "homepage": null,
             "id": 254199519,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T02:59:37Z",
+            "open_issues": 12,
             "owner": "tannerlinsley",
             "repo": "react-query-blog-refactor-example",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -106,12 +170,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Synthetix Exchange dApp code",
+            "homepage": "https://synthetix.exchange",
             "id": 158159980,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-06-28T09:39:52Z",
+            "open_issues": 5,
             "owner": "Synthetixio",
             "repo": "synthetix-exchange",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "dapp",
+              "defi",
+              "ethereum",
+              "synthetix"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -122,12 +196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fun little internal hackathon project from @expo",
+            "homepage": "https://power.bront.xyz",
             "id": 267672902,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-07T07:22:29Z",
+            "open_issues": 22,
             "owner": "brentvatne",
             "repo": "hour-power",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -138,12 +217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This app showcases eight ways to handle React state.",
+            "homepage": null,
             "id": 264467872,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-11-14T09:47:15Z",
+            "open_issues": 15,
             "owner": "coryhouse",
             "repo": "react-state-demo",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -154,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.",
+            "homepage": "https://hedgehog-lab.github.io/",
             "id": 423952537,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-11-02T04:34:31Z",
+            "open_issues": 0,
             "owner": "lidangzzz",
             "repo": "hedgehog-lab",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -170,12 +259,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just another boilerplate based create-react-app with many useful things",
+            "homepage": null,
             "id": 126437400,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-05T05:03:30Z",
+            "open_issues": 0,
             "owner": "hyanmandian",
             "repo": "cra-template-hyan",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "boilerplate",
+              "cra-template",
+              "create-react-app",
+              "mirage",
+              "react",
+              "react-query",
+              "router"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -186,12 +288,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend repository for COVID-19 self-reporting tool in React",
+            "homepage": "https://www.covidselfreport.org",
             "id": 260075783,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-08-02T06:46:33Z",
+            "open_issues": 52,
             "owner": "Covid-Self-report-Tool",
             "repo": "cov-self-report-frontend",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "coronavirus",
+              "covid-19",
+              "material-ui",
+              "react",
+              "react-leaflet",
+              "react-query",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         }
@@ -208,12 +324,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚛️ Authenticate your react applications easily with react-query.",
+            "homepage": null,
             "id": 338656763,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-08T13:08:11Z",
+            "open_issues": 7,
             "owner": "alan2207",
             "repo": "react-query-auth",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "auth",
+              "authentication",
+              "context-api",
+              "hooks",
+              "react",
+              "react-query"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -224,12 +352,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 256885786,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-01-09T18:00:42Z",
+            "open_issues": 15,
             "owner": "bgaleotti",
             "repo": "react-query-native-devtools",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "flipper-plugin",
+              "react-native",
+              "react-query"
+            ]
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         },
@@ -240,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "React Query integration with React Navigation",
+            "homepage": null,
             "id": 251088553,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-12T12:01:11Z",
+            "open_issues": 10,
             "owner": "cherniavskii",
             "repo": "react-query-navigation-native",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
         }
@@ -254,15 +396,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:33:11.130Z",
+    "last_updated": "2026-08-29T04:59:18.191Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome things regarding the React Query ecosystem",
+      "homepage": null,
       "id": 280287785,
       "language": null,
+      "license": null,
       "last_commit": "2021-09-09T04:15:24Z",
+      "open_issues": 0,
       "owner": "Buuntu",
       "repo": "awesome-react-query",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "react",
+        "react-query"
+      ]
     },
     "original_repository_sha": "0a9b9cfec2916a68edde69db5e54c2bf2c01b2ee",
     "enhanced_repository": "enhansome/enhansome-react-query",
