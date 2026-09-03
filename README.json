@@ -15,11 +15,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T12:06:51Z",
-            "open_issues": 152,
+            "last_commit": "2026-09-03T09:11:46Z",
+            "open_issues": 153,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50248,
+            "stars": 50257,
             "topics": [
               "async",
               "cache",
@@ -54,10 +54,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-02-08T19:21:29Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "haishanh",
             "repo": "yacd",
-            "stars": 4836,
+            "stars": 4837,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
@@ -74,11 +74,11 @@
             "id": 176777353,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T11:28:39Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-03T11:50:40Z",
+            "open_issues": 26,
             "owner": "rainbow-me",
             "repo": "rainbow",
-            "stars": 4384,
+            "stars": 4386,
             "topics": [
               "defi",
               "ethereum",
@@ -268,7 +268,7 @@
             "open_issues": 0,
             "owner": "hyanmandian",
             "repo": "cra-template-hyan",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "boilerplate",
               "cra-template",
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:14:47.795Z",
+    "last_updated": "2026-09-03T12:13:03.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
