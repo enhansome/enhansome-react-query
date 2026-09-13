@@ -15,11 +15,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T07:43:36Z",
-            "open_issues": 179,
+            "last_commit": "2026-09-13T11:43:20Z",
+            "open_issues": 176,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50280,
+            "stars": 50282,
             "topics": [
               "async",
               "cache",
@@ -130,7 +130,7 @@
             "open_issues": 26,
             "owner": "huchenme",
             "repo": "hacker-tab-extension",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "chrome-extension",
               "chrome-extensions",
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:41:51.938Z",
+    "last_updated": "2026-09-13T12:48:49.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
