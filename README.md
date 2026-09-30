@@ -1,16 +1,16 @@
 # Awesome React Query with stars
 
-* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,380 | 🐛 178 | 🌐 TypeScript | 📅 2026-09-29
+* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,383 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-30
   * [Dev Tools](https://github.com/tannerlinsley/react-query-devtools) ⚠️ Archived
   * [Documentation](https://react-query.tanstack.com/)
-  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,380 | 🐛 178 | 🌐 TypeScript | 📅 2026-09-29
+  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,383 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-30
   * [React Query Essentials Source Code](https://github.com/tannerlinsley/react-query-essentials) ⭐ 446 | 🐛 144 | 🌐 JavaScript | 📅 2023-01-06
 
 ## Applications
 
-* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,380 | 🐛 178 | 🌐 TypeScript | 📅 2026-09-29
+* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,383 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-30
 * [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,837 | 🐛 96 | 🌐 TypeScript | 📅 2024-02-08
-* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,396 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-29
+* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,396 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-30
 * [Bookshelf App](https://github.com/kentcdodds/bookshelf) ⭐ 2,685 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
 * [Hacker Tab Extension](https://github.com/huchenme/hacker-tab-extension) ⭐ 362 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-06
 * [Blog Example](https://github.com/tannerlinsley/react-query-blog-refactor-example) ⭐ 225 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06
@@ -43,4 +43,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
