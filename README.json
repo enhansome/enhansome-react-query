@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Official Library Examples",
-          "description": null,
+          "description": "TanStack/query",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:05:41Z",
-            "open_issues": 183,
+            "last_commit": "2026-10-03T04:09:39Z",
+            "open_issues": 174,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50391,
+            "stars": 50394,
             "topics": [
               "async",
               "cache",
@@ -44,7 +44,7 @@
         {
           "node_type": "item",
           "title": "Yet Another Clash Dasbhoard",
-          "description": null,
+          "description": "haishanh/yacd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -57,7 +57,7 @@
             "open_issues": 96,
             "owner": "haishanh",
             "repo": "yacd",
-            "stars": 4838,
+            "stars": 4837,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "Rainbow: Ethereum Wallet",
-          "description": null,
+          "description": "rainbow-me/rainbow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -74,11 +74,11 @@
             "id": 176777353,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T09:46:51Z",
+            "last_commit": "2026-10-03T03:48:29Z",
             "open_issues": 43,
             "owner": "rainbow-me",
             "repo": "rainbow",
-            "stars": 4395,
+            "stars": 4396,
             "topics": [
               "defi",
               "ethereum",
@@ -92,7 +92,7 @@
         {
           "node_type": "item",
           "title": "Bookshelf App",
-          "description": null,
+          "description": "kentcdodds/bookshelf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "kentcdodds",
             "repo": "bookshelf",
-            "stars": 2685,
+            "stars": 2684,
             "topics": [
               "epicreact-dev",
               "kcd-edu",
@@ -117,7 +117,7 @@
         {
           "node_type": "item",
           "title": "Hacker Tab Extension",
-          "description": null,
+          "description": "huchenme/hacker-tab-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -145,7 +145,7 @@
         {
           "node_type": "item",
           "title": "Blog Example",
-          "description": null,
+          "description": "tannerlinsley/react-query-blog-refactor-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -166,7 +166,7 @@
         {
           "node_type": "item",
           "title": "Synthetix Exchange",
-          "description": null,
+          "description": "Synthetixio/synthetix-exchange",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -192,7 +192,7 @@
         {
           "node_type": "item",
           "title": "Hour Power",
-          "description": null,
+          "description": "brentvatne/hour-power",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,7 +213,7 @@
         {
           "node_type": "item",
           "title": "React State Demo",
-          "description": null,
+          "description": "coryhouse/react-state-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
         {
           "node_type": "item",
           "title": "Hedgehog Lab: A Scientific Computation Tool",
-          "description": null,
+          "description": "lidangzzz/hedgehog-lab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,7 +255,7 @@
         {
           "node_type": "item",
           "title": "Create React App Example",
-          "description": null,
+          "description": "hyanmandian/cra-template-hyan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +284,7 @@
         {
           "node_type": "item",
           "title": "COVID Self Reporting Tool",
-          "description": null,
+          "description": "Covid-Self-report-Tool/cov-self-report-frontend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,7 +320,7 @@
         {
           "node_type": "item",
           "title": "react-query-auth",
-          "description": null,
+          "description": "alan2207/react-query-auth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "react-query-native-devtools",
-          "description": null,
+          "description": "bgaleotti/react-query-native-devtools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -373,7 +373,7 @@
         {
           "node_type": "item",
           "title": "react-query-navigation-native",
-          "description": null,
+          "description": "cherniavskii/react-query-navigation-native",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:02:36.420Z",
+    "last_updated": "2026-10-03T05:03:06.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
