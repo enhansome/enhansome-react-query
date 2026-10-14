@@ -15,11 +15,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T12:50:09Z",
-            "open_issues": 168,
+            "last_commit": "2026-10-14T05:48:18Z",
+            "open_issues": 173,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50420,
+            "stars": 50426,
             "topics": [
               "async",
               "cache",
@@ -54,7 +54,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-02-08T19:21:29Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "haishanh",
             "repo": "yacd",
             "stars": 4839,
@@ -74,11 +74,11 @@
             "id": 176777353,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T18:45:35Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-14T00:28:15Z",
+            "open_issues": 42,
             "owner": "rainbow-me",
             "repo": "rainbow",
-            "stars": 4395,
+            "stars": 4396,
             "topics": [
               "defi",
               "ethereum",
@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "kentcdodds",
             "repo": "bookshelf",
-            "stars": 2684,
+            "stars": 2685,
             "topics": [
               "epicreact-dev",
               "kcd-edu",
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:13:13.283Z",
+    "last_updated": "2026-10-14T13:00:02.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
