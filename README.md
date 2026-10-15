@@ -1,17 +1,17 @@
 # Awesome React Query with stars
 
-* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,426 | 🐛 173 | 🌐 TypeScript | 📅 2026-10-14
+* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,436 | 🐛 165 | 🌐 TypeScript | 📅 2026-10-15
   * [Dev Tools](https://github.com/tannerlinsley/react-query-devtools) ⚠️ Archived
   * [Documentation](https://react-query.tanstack.com/)
-  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,426 | 🐛 173 | 🌐 TypeScript | 📅 2026-10-14
+  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,436 | 🐛 165 | 🌐 TypeScript | 📅 2026-10-15
   * [React Query Essentials Source Code](https://github.com/tannerlinsley/react-query-essentials) ⭐ 445 | 🐛 144 | 🌐 JavaScript | 📅 2023-01-06
 
 ## Applications
 
-* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,426 | 🐛 173 | 🌐 TypeScript | 📅 2026-10-14
-* [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,839 | 🐛 101 | 🌐 TypeScript | 📅 2024-02-08
-* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,396 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-14
-* [Bookshelf App](https://github.com/kentcdodds/bookshelf) ⭐ 2,685 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
+* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,436 | 🐛 165 | 🌐 TypeScript | 📅 2026-10-15
+* [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,839 | 🐛 102 | 🌐 TypeScript | 📅 2024-02-08
+* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,396 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-15
+* [Bookshelf App](https://github.com/kentcdodds/bookshelf) ⭐ 2,683 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
 * [Hacker Tab Extension](https://github.com/huchenme/hacker-tab-extension) ⭐ 362 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-06
 * [Blog Example](https://github.com/tannerlinsley/react-query-blog-refactor-example) ⭐ 225 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06
 * [Synthetix Exchange](https://github.com/Synthetixio/synthetix-exchange) ⚠️ Archived
@@ -43,4 +43,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
