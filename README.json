@@ -15,11 +15,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T03:42:47Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-18T12:01:47Z",
+            "open_issues": 137,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50449,
+            "stars": 50453,
             "topics": [
               "async",
               "cache",
@@ -54,10 +54,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-02-08T19:21:29Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "haishanh",
             "repo": "yacd",
-            "stars": 4839,
+            "stars": 4838,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
@@ -74,7 +74,7 @@
             "id": 176777353,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T23:26:00Z",
+            "last_commit": "2026-10-17T19:53:45Z",
             "open_issues": 43,
             "owner": "rainbow-me",
             "repo": "rainbow",
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:43:04.393Z",
+    "last_updated": "2026-10-18T12:09:01.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
@@ -408,7 +408,7 @@
       "open_issues": 0,
       "owner": "Buuntu",
       "repo": "awesome-react-query",
-      "stars": 81,
+      "stars": 80,
       "topics": [
         "awesome",
         "awesome-list",
