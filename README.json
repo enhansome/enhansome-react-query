@@ -15,11 +15,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T10:56:45Z",
-            "open_issues": 121,
+            "last_commit": "2026-11-09T01:34:18Z",
+            "open_issues": 128,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50538,
+            "stars": 50544,
             "topics": [
               "async",
               "cache",
@@ -74,8 +74,8 @@
             "id": 176777353,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T22:19:58Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-09T16:08:12Z",
+            "open_issues": 39,
             "owner": "rainbow-me",
             "repo": "rainbow",
             "stars": 4400,
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:27:29.985Z",
+    "last_updated": "2026-11-09T17:44:43.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
