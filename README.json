@@ -15,8 +15,8 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T13:25:43Z",
-            "open_issues": 143,
+            "last_commit": "2026-11-16T14:13:48Z",
+            "open_issues": 142,
             "owner": "TanStack",
             "repo": "query",
             "stars": 50568,
@@ -57,7 +57,7 @@
             "open_issues": 108,
             "owner": "haishanh",
             "repo": "yacd",
-            "stars": 4839,
+            "stars": 4838,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:11.130Z"
@@ -74,11 +74,11 @@
             "id": 176777353,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T22:47:16Z",
+            "last_commit": "2026-11-16T15:24:43Z",
             "open_issues": 33,
             "owner": "rainbow-me",
             "repo": "rainbow",
-            "stars": 4401,
+            "stars": 4402,
             "topics": [
               "defi",
               "ethereum",
@@ -130,7 +130,7 @@
             "open_issues": 26,
             "owner": "huchenme",
             "repo": "hacker-tab-extension",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "chrome-extension",
               "chrome-extensions",
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:55:29.385Z",
+    "last_updated": "2026-11-16T17:19:29.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
