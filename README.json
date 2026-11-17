@@ -15,7 +15,7 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:13:48Z",
+            "last_commit": "2026-11-17T16:35:35Z",
             "open_issues": 142,
             "owner": "TanStack",
             "repo": "query",
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T17:19:29.667Z",
+    "last_updated": "2026-11-17T17:00:16.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the React Query ecosystem",
