@@ -1,16 +1,16 @@
 # Awesome React Query with stars
 
-* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,620 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-23
+* [React Query](https://github.com/tannerlinsley/react-query) ⭐ 50,626 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-24
   * [Dev Tools](https://github.com/tannerlinsley/react-query-devtools) ⚠️ Archived
   * [Documentation](https://react-query.tanstack.com/)
-  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,620 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-23
+  * [Discussions](https://github.com/tannerlinsley/react-query/discussions) ⭐ 50,626 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-24
   * [React Query Essentials Source Code](https://github.com/tannerlinsley/react-query-essentials) ⭐ 443 | 🐛 144 | 🌐 JavaScript | 📅 2023-01-06
 
 ## Applications
 
-* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,620 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-23
-* [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,835 | 🐛 108 | 🌐 TypeScript | 📅 2024-02-08
-* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,403 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-23
+* [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples) ⭐ 50,626 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-24
+* [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd) ⭐ 4,836 | 🐛 108 | 🌐 TypeScript | 📅 2024-02-08
+* [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow) ⭐ 4,402 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-24
 * [Bookshelf App](https://github.com/kentcdodds/bookshelf) ⭐ 2,684 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-10
 * [Hacker Tab Extension](https://github.com/huchenme/hacker-tab-extension) ⭐ 361 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-06
 * [Blog Example](https://github.com/tannerlinsley/react-query-blog-refactor-example) ⭐ 224 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06
@@ -23,7 +23,7 @@
 
 ## Packages
 
-* [react-query-auth](https://github.com/alan2207/react-query-auth) ⭐ 419 | 🐛 7 | 🌐 TypeScript | 📅 2024-12-08
+* [react-query-auth](https://github.com/alan2207/react-query-auth) ⭐ 418 | 🐛 7 | 🌐 TypeScript | 📅 2024-12-08
 * [react-query-native-devtools](https://github.com/bgaleotti/react-query-native-devtools) ⭐ 173 | 🐛 15 | 🌐 TypeScript | 📅 2024-01-09
 * [react-query-navigation-native](https://github.com/cherniavskii/react-query-navigation-native) ⚠️ Archived
 
@@ -43,4 +43,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
